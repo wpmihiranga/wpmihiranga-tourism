@@ -1,0 +1,6 @@
+{
+  "name": "Serenity Travel",
+  "description": "Serenity Travel offers tailored private Sri Lanka tours personally guided by Mahesh, covering cultural heritage, wildlife safaris, hill country tea trails, and serene coastal journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
